@@ -33,7 +33,7 @@ p.h2 {
   color: black;
   background-color: white;
   border-style: dashed;
-  border-color: black;
+  border-color: mediumblue;
   transition: 2s;
 }
 .main {
