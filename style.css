@@ -155,8 +155,8 @@ p.info {
   color: white;
 }
 .meinfo:hover{
-  border-color: sienna;
-  background-color: limegreen;
+  border-color: black;
+  background-color: aqua;
   border-style: groove;
   transition: 2s;
 }
